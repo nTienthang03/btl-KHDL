@@ -95,8 +95,11 @@ Các thư viện chính:
 * Tổng số ngày phân tích: **641 ngày**
 * Số ngày PM2.5 trung bình vượt ngưỡng 50 µg/m3: **100 ngày**
 * Tỷ lệ ngày vượt ngưỡng: **15.60%**
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/9a5e5aac-adfb-444a-8814-56448b394dc6" />
 
 ### 7.2. Khung giờ PM2.5 cao nhất
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c0e24f09-6e05-449e-b532-d2ff61b21e7a" />
+
 
 * Khung giờ có PM2.5 trung bình cao nhất: **khoảng 18 giờ**
 
@@ -109,6 +112,8 @@ Các ngày PM2.5 vượt ngưỡng thường xuất hiện trong điều kiện:
 * Nhiệt độ thấp hơn.
 * Độ ẩm thấp hơn.
 * Khả năng khuếch tán không khí kém.
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/99c0ee1b-219d-4acb-9243-2311beaffae2" />
+
 
 ### 7.4. PM2.5 theo mùa
 
@@ -124,8 +129,17 @@ Nhận xét:
 * Mùa đông có PM2.5 trung bình cao nhất.
 * Mùa thu có PM2.5 trung bình thấp nhất.
 * PM2.5 tại Hà Nội có sự thay đổi rõ rệt theo mùa.
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/419014dc-78a4-484a-abf6-ed880a8b02b4" />
+### 7.5. Câu hỏi 5: Xu hướng PM2.5 trong giai đoạn 2024–2026
 
-### 7.5. Xu hướng PM2.5
+- PM2.5 trung bình 3 tháng đầu kỳ: **25.62 µg/m3**
+- PM2.5 trung bình 3 tháng cuối kỳ: **41.21 µg/m3**
+- Mức tăng: **15.59 µg/m3**
+- Tỷ lệ tăng: **60.85%*
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/80fdd435-5fec-4e6f-aa4f-ccae1ef322b2" />
+
+
+### 7.6. Xu hướng PM2.5
 
 * PM2.5 trung bình 3 tháng đầu kỳ: **25.62 µg/m3**
 * PM2.5 trung bình 3 tháng cuối kỳ: **41.21 µg/m3**
@@ -135,8 +149,9 @@ Nhận xét:
 Nhận xét:
 
 PM2.5 có dấu hiệu tăng ở giai đoạn cuối, cho thấy chất lượng không khí có xu hướng xấu hơn. Tuy nhiên, kết quả cần được xem xét cùng yếu tố mùa vì giai đoạn cuối nằm gần mùa đông, thời điểm PM2.5 thường cao hơn.
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/5c8cf1f0-066b-4174-8bee-79f41ee1ffc9" />
 
-### 7.6. Phân nhóm PM2.5
+### 7.7. Phân nhóm PM2.5
 
 | Nhóm               | Điều kiện       |  Số ngày |  Tỷ lệ |
 | ------------------ | --------------- | -------: | -----: |
@@ -145,6 +160,8 @@ PM2.5 có dấu hiệu tăng ở giai đoạn cuối, cho thấy chất lượng
 | Ô nhiễm cao        | PM2.5 > 50      | 100 ngày | 15.60% |
 
 ---
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/38067258-8966-4af1-a22d-d3cff9c4cabc" />
+
 
 ## 8. Cấu trúc thư mục dự án
 
