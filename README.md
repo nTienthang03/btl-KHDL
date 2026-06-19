@@ -224,6 +224,8 @@ Sau đó chạy lần lượt các cell từ trên xuống dưới để tạo b
 Thông qua đề tài, sinh viên đã vận dụng được kiến thức môn Khoa học dữ liệu vào một bài toán thực tế, bao gồm đọc dữ liệu, xử lý dữ liệu, thống kê, trực quan hóa, dự đoán và phân nhóm dữ liệu.
 
 ---
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/797a0115-afe6-4107-b585-203650bc019e" />
+
 
 ## 11. Hướng phát triển
 
@@ -234,6 +236,8 @@ Thông qua đề tài, sinh viên đã vận dụng được kiến thức môn 
 * Kết nối dữ liệu thời gian thực để theo dõi và cảnh báo chất lượng không khí.
 
 ---
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/5f32fd41-adb3-493d-a380-6a6c40b74261" />
+
 
 ## 12. Tài liệu tham khảo
 
