@@ -150,8 +150,9 @@ PM2.5 có dấu hiệu tăng ở giai đoạn cuối, cho thấy chất lượng
 
 ```text
 btl-KHDL/
-│
-├── hanoi_aqi_ml_ready_fixed.csv
+├── data/
+├    ├── hanoi_aqi_ml_ready_fixed.csv
+├
 ├── main.ipynb
 ├── README.md
 │
