@@ -7,7 +7,7 @@
 * **Lớp:** K58KTP
 * **Môn học:** Khoa học dữ liệu
 * **Giảng viên hướng dẫn:** Nguyễn Văn Huy
-## Link trình bày :
+## Link trình bày : https://youtu.be/hm4oNnWNzDo
 
 ---
 
